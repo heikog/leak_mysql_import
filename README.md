@@ -3,7 +3,7 @@
 These are some tools I used to import leaked password files into an mysql database.
 Still work in progress and no documentation yet
 
-Its pretty much straigght forward thoug:
+Its pretty much straigght forward though:
 
 If you have a directory of files in the format
 
